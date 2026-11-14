@@ -1,0 +1,169 @@
+alert_id,snapshot_date,customer_id,account_id,rule_name,alert_reason,alert_level,review_tier
+ALT000001,2026-10-01,C00030,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.89 times the expected level.,CUSTOMER,
+ALT000002,2026-10-01,C00061,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.1 times the expected level.,CUSTOMER,
+ALT000003,2026-10-01,C00098,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 3.2 times the expected level.,CUSTOMER,
+ALT000004,2026-10-01,C00173,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.67 times the expected level.,CUSTOMER,
+ALT000005,2026-10-01,C00198,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.22 times the expected level.,CUSTOMER,
+ALT000006,2026-10-01,C00211,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.33 times the expected level.,CUSTOMER,
+ALT000007,2026-10-01,C00215,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.44 times the expected level.,CUSTOMER,
+ALT000008,2026-10-01,C00235,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.5 times the expected level.,CUSTOMER,
+ALT000009,2026-10-01,C00274,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.11 times the expected level.,CUSTOMER,
+ALT000010,2026-10-01,C00311,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.64 times the expected level.,CUSTOMER,
+ALT000011,2026-10-01,C00343,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.53 times the expected level.,CUSTOMER,
+ALT000012,2026-10-01,C00389,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.4 times the expected level.,CUSTOMER,
+ALT000013,2026-10-01,C00399,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.29 times the expected level.,CUSTOMER,
+ALT000014,2026-10-01,C00405,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.5 times the expected level.,CUSTOMER,
+ALT000015,2026-10-01,C00414,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.29 times the expected level.,CUSTOMER,
+ALT000016,2026-10-01,C00426,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.83 times the expected level.,CUSTOMER,
+ALT000017,2026-10-01,C00469,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.38 times the expected level.,CUSTOMER,
+ALT000018,2026-10-01,C00533,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.67 times the expected level.,CUSTOMER,
+ALT000019,2026-10-01,C00554,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.44 times the expected level.,CUSTOMER,
+ALT000020,2026-10-01,C00564,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.87 times the expected level.,CUSTOMER,
+ALT000021,2026-10-01,C00568,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.0 times the expected level.,CUSTOMER,
+ALT000022,2026-10-01,C00667,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.43 times the expected level.,CUSTOMER,
+ALT000023,2026-10-01,C00685,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.57 times the expected level.,CUSTOMER,
+ALT000024,2026-10-01,C00702,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.22 times the expected level.,CUSTOMER,
+ALT000025,2026-10-01,C00705,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.17 times the expected level.,CUSTOMER,
+ALT000026,2026-10-01,C00714,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.5 times the expected level.,CUSTOMER,
+ALT000027,2026-10-01,C00726,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.29 times the expected level.,CUSTOMER,
+ALT000028,2026-10-01,C00747,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.53 times the expected level.,CUSTOMER,
+ALT000029,2026-10-01,C00770,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.45 times the expected level.,CUSTOMER,
+ALT000030,2026-10-01,C00784,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.56 times the expected level.,CUSTOMER,
+ALT000031,2026-10-01,C00812,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.0 times the expected level.,CUSTOMER,
+ALT000032,2026-10-01,C00819,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.33 times the expected level.,CUSTOMER,
+ALT000033,2026-10-01,C00826,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.71 times the expected level.,CUSTOMER,
+ALT000034,2026-10-01,C00829,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.67 times the expected level.,CUSTOMER,
+ALT000035,2026-10-01,C00831,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.14 times the expected level.,CUSTOMER,
+ALT000036,2026-10-01,C00852,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 4.0 times the expected level.,CUSTOMER,
+ALT000037,2026-10-01,C00866,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.1 times the expected level.,CUSTOMER,
+ALT000038,2026-10-01,C00888,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.0 times the expected level.,CUSTOMER,
+ALT000039,2026-10-01,C00916,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.2 times the expected level.,CUSTOMER,
+ALT000040,2026-10-01,C00925,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.11 times the expected level.,CUSTOMER,
+ALT000041,2026-10-01,C00947,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.75 times the expected level.,CUSTOMER,
+ALT000042,2026-10-01,C00982,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.62 times the expected level.,CUSTOMER,
+ALT000043,2026-10-01,C01002,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.77 times the expected level.,CUSTOMER,
+ALT000044,2026-10-01,C01085,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.3 times the expected level.,CUSTOMER,
+ALT000045,2026-10-01,C01086,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.12 times the expected level.,CUSTOMER,
+ALT000046,2026-10-01,C01096,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.11 times the expected level.,CUSTOMER,
+ALT000047,2026-10-01,C01120,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.67 times the expected level.,CUSTOMER,
+ALT000048,2026-10-01,C01154,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.71 times the expected level.,CUSTOMER,
+ALT000049,2026-10-01,C01175,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.29 times the expected level.,CUSTOMER,
+ALT000050,2026-10-01,C01181,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.08 times the expected level.,CUSTOMER,
+ALT000051,2026-10-01,C01208,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.18 times the expected level.,CUSTOMER,
+ALT000052,2026-10-01,C01209,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 3.0 times the expected level.,CUSTOMER,
+ALT000053,2026-10-01,C01269,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.87 times the expected level.,CUSTOMER,
+ALT000054,2026-10-01,C01335,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 3.62 times the expected level.,CUSTOMER,
+ALT000055,2026-10-01,C01340,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.83 times the expected level.,CUSTOMER,
+ALT000056,2026-10-01,C01358,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.78 times the expected level.,CUSTOMER,
+ALT000057,2026-10-01,C01373,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.25 times the expected level.,CUSTOMER,
+ALT000058,2026-10-01,C01376,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.38 times the expected level.,CUSTOMER,
+ALT000059,2026-10-01,C01418,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.07 times the expected level.,CUSTOMER,
+ALT000060,2026-10-01,C01458,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.57 times the expected level.,CUSTOMER,
+ALT000061,2026-10-01,C01550,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.38 times the expected level.,CUSTOMER,
+ALT000062,2026-10-01,C01554,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.5 times the expected level.,CUSTOMER,
+ALT000063,2026-10-01,C01591,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.27 times the expected level.,CUSTOMER,
+ALT000064,2026-10-01,C01598,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.0 times the expected level.,CUSTOMER,
+ALT000065,2026-10-01,C01630,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.27 times the expected level.,CUSTOMER,
+ALT000066,2026-10-01,C01637,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.04 times the expected level.,CUSTOMER,
+ALT000067,2026-10-01,C01648,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.29 times the expected level.,CUSTOMER,
+ALT000068,2026-10-01,C01659,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 1.67 times the expected level.,CUSTOMER,
+ALT000069,2026-10-01,C01688,,High Turnover and Expected Activity Deviation,Account turnover exceeded the peer-group 95th percentile. Customer transaction count was 2.89 times the expected level.,CUSTOMER,
+ALT000070,2026-10-01,C00030,A00033,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 6.43 times the historical daily rate.,ACCOUNT,
+ALT000071,2026-10-01,C00653,A00800,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 15.0 times the historical daily rate.,ACCOUNT,
+ALT000072,2026-10-01,C00819,A01011,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 15.0 times the historical daily rate.,ACCOUNT,
+ALT000073,2026-10-01,C01002,A01241,Sudden Transaction Velocity Spike,Recorded 4 transactions in 24 hours. Activity was 6.32 times the historical daily rate.,ACCOUNT,
+ALT000074,2026-10-01,C01013,A01254,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 7.5 times the historical daily rate.,ACCOUNT,
+ALT000075,2026-10-01,C01227,A01528,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 10.0 times the historical daily rate.,ACCOUNT,
+ALT000076,2026-10-01,C01325,A01654,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 9.0 times the historical daily rate.,ACCOUNT,
+ALT000077,2026-10-01,C01424,A01776,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 12.86 times the historical daily rate.,ACCOUNT,
+ALT000078,2026-10-01,C01544,A01934,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 6.43 times the historical daily rate.,ACCOUNT,
+ALT000079,2026-10-01,C01603,A02012,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 9.0 times the historical daily rate.,ACCOUNT,
+ALT000080,2026-10-01,C01633,A02054,Sudden Transaction Velocity Spike,Recorded 3 transactions in 24 hours. Activity was 8.18 times the historical daily rate.,ACCOUNT,
+ALT000081,2026-10-01,C00008,A00009,Unusual New Counterparty Activity,"In the last 7 days, 80% of counterparties were new across 5 unique counterparties.",ACCOUNT,Initial review
+ALT000082,2026-10-01,C00062,A00070,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Enhanced review
+ALT000083,2026-10-01,C00069,A00078,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000084,2026-10-01,C00083,A00098,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000085,2026-10-01,C00097,A00116,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000086,2026-10-01,C00191,A00240,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000087,2026-10-01,C00341,A00421,Unusual New Counterparty Activity,"In the last 7 days, 80% of counterparties were new across 5 unique counterparties.",ACCOUNT,Enhanced review
+ALT000088,2026-10-01,C00488,A00604,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Enhanced review
+ALT000089,2026-10-01,C00534,A00653,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000090,2026-10-01,C00556,A00681,Unusual New Counterparty Activity,"In the last 7 days, 80% of counterparties were new across 5 unique counterparties.",ACCOUNT,Initial review
+ALT000091,2026-10-01,C00613,A00756,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000092,2026-10-01,C00695,A00856,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000093,2026-10-01,C01003,A01242,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000094,2026-10-01,C01020,A01265,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000095,2026-10-01,C01118,A01394,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000096,2026-10-01,C01182,A01472,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000097,2026-10-01,C01198,A01490,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000098,2026-10-01,C01482,A01854,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000099,2026-10-01,C01545,A01935,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 4 unique counterparties.",ACCOUNT,Initial review
+ALT000100,2026-10-01,C01582,A01984,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 4 unique counterparties.",ACCOUNT,Initial review
+ALT000101,2026-10-01,C01624,A02042,Unusual New Counterparty Activity,"In the last 7 days, 100% of counterparties were new across 3 unique counterparties.",ACCOUNT,Initial review
+ALT000102,2026-10-01,C01663,A02088,Unusual New Counterparty Activity,"In the last 7 days, 80% of counterparties were new across 5 unique counterparties.",ACCOUNT,Initial review
+ALT000103,2026-10-01,C00028,A00031,High Cash Amount and Cash Share,"Monthly cash activity of $5,529.80 accounted for 49% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000104,2026-10-01,C00037,A00041,High Cash Amount and Cash Share,"Monthly cash activity of $4,205.86 accounted for 35% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000105,2026-10-01,C00051,A00057,High Cash Amount and Cash Share,"Monthly cash activity of $19,956.27 accounted for 79% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000106,2026-10-01,C00075,A00085,High Cash Amount and Cash Share,"Monthly cash activity of $8,393.14 accounted for 38% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000107,2026-10-01,C00097,A00116,High Cash Amount and Cash Share,"Monthly cash activity of $3,915.05 accounted for 43% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000108,2026-10-01,C00098,A00117,High Cash Amount and Cash Share,"Monthly cash activity of $133,222.02 accounted for 99% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000109,2026-10-01,C00109,A00133,High Cash Amount and Cash Share,"Monthly cash activity of $8,638.59 accounted for 45% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000110,2026-10-01,C00181,A00228,High Cash Amount and Cash Share,"Monthly cash activity of $13,906.72 accounted for 35% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000111,2026-10-01,C00194,A00245,High Cash Amount and Cash Share,"Monthly cash activity of $4,527.22 accounted for 82% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000112,2026-10-01,C00216,A00272,High Cash Amount and Cash Share,"Monthly cash activity of $32,384.64 accounted for 47% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000113,2026-10-01,C00245,A00308,High Cash Amount and Cash Share,"Monthly cash activity of $5,436.53 accounted for 100% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000114,2026-10-01,C00322,A00400,High Cash Amount and Cash Share,"Monthly cash activity of $3,493.04 accounted for 65% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000115,2026-10-01,C00326,A00404,High Cash Amount and Cash Share,"Monthly cash activity of $5,827.60 accounted for 49% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000116,2026-10-01,C00327,A00405,High Cash Amount and Cash Share,"Monthly cash activity of $33,191.53 accounted for 34% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000117,2026-10-01,C00361,A00448,High Cash Amount and Cash Share,"Monthly cash activity of $5,523.71 accounted for 37% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000118,2026-10-01,C00366,A00454,High Cash Amount and Cash Share,"Monthly cash activity of $5,562.16 accounted for 47% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000119,2026-10-01,C00375,A00465,High Cash Amount and Cash Share,"Monthly cash activity of $15,243.85 accounted for 50% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000120,2026-10-01,C00399,A00494,High Cash Amount and Cash Share,"Monthly cash activity of $5,551.94 accounted for 34% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000121,2026-10-01,C00415,A00515,High Cash Amount and Cash Share,"Monthly cash activity of $6,344.51 accounted for 42% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000122,2026-10-01,C00477,A00589,High Cash Amount and Cash Share,"Monthly cash activity of $4,543.60 accounted for 48% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000123,2026-10-01,C00585,A00721,High Cash Amount and Cash Share,"Monthly cash activity of $43,818.23 accounted for 100% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000124,2026-10-01,C00627,A00771,High Cash Amount and Cash Share,"Monthly cash activity of $7,256.80 accounted for 64% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000125,2026-10-01,C00635,A00781,High Cash Amount and Cash Share,"Monthly cash activity of $12,646.87 accounted for 58% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000126,2026-10-01,C00705,A00868,High Cash Amount and Cash Share,"Monthly cash activity of $10,436.76 accounted for 48% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000127,2026-10-01,C00714,A00879,High Cash Amount and Cash Share,"Monthly cash activity of $7,512.81 accounted for 42% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000128,2026-10-01,C00723,A00890,High Cash Amount and Cash Share,"Monthly cash activity of $4,036.76 accounted for 57% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000129,2026-10-01,C00764,A00943,High Cash Amount and Cash Share,"Monthly cash activity of $10,088.16 accounted for 35% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000130,2026-10-01,C00819,A01012,High Cash Amount and Cash Share,"Monthly cash activity of $5,127.50 accounted for 49% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000131,2026-10-01,C00823,A01016,High Cash Amount and Cash Share,"Monthly cash activity of $4,651.09 accounted for 39% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000132,2026-10-01,C00913,A01131,High Cash Amount and Cash Share,"Monthly cash activity of $4,860.34 accounted for 56% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000133,2026-10-01,C01024,A01269,High Cash Amount and Cash Share,"Monthly cash activity of $4,977.15 accounted for 48% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000134,2026-10-01,C01027,A01274,High Cash Amount and Cash Share,"Monthly cash activity of $4,175.76 accounted for 52% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000135,2026-10-01,C01062,A01317,High Cash Amount and Cash Share,"Monthly cash activity of $3,716.95 accounted for 43% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000136,2026-10-01,C01119,A01396,High Cash Amount and Cash Share,"Monthly cash activity of $4,278.75 accounted for 53% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000137,2026-10-01,C01148,A01427,High Cash Amount and Cash Share,"Monthly cash activity of $63,973.52 accounted for 49% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000138,2026-10-01,C01216,A01515,High Cash Amount and Cash Share,"Monthly cash activity of $10,542.43 accounted for 42% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000139,2026-10-01,C01219,A01518,High Cash Amount and Cash Share,"Monthly cash activity of $9,982.06 accounted for 58% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000140,2026-10-01,C01220,A01520,High Cash Amount and Cash Share,"Monthly cash activity of $4,847.52 accounted for 42% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000141,2026-10-01,C01248,A01553,High Cash Amount and Cash Share,"Monthly cash activity of $22,419.78 accounted for 65% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000142,2026-10-01,C01267,A01578,High Cash Amount and Cash Share,"Monthly cash activity of $4,755.15 accounted for 61% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000143,2026-10-01,C01348,A01683,High Cash Amount and Cash Share,"Monthly cash activity of $4,200.84 accounted for 42% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000144,2026-10-01,C01443,A01803,High Cash Amount and Cash Share,"Monthly cash activity of $3,719.78 accounted for 52% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000145,2026-10-01,C01452,A01814,High Cash Amount and Cash Share,"Monthly cash activity of $5,148.69 accounted for 44% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000146,2026-10-01,C01489,A01862,High Cash Amount and Cash Share,"Monthly cash activity of $3,707.85 accounted for 44% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000147,2026-10-01,C01498,A01876,High Cash Amount and Cash Share,"Monthly cash activity of $7,907.63 accounted for 42% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000148,2026-10-01,C01571,A01969,High Cash Amount and Cash Share,"Monthly cash activity of $8,635.23 accounted for 37% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000149,2026-10-01,C01606,A02016,High Cash Amount and Cash Share,"Monthly cash activity of $3,996.94 accounted for 71% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000150,2026-10-01,C01610,A02020,High Cash Amount and Cash Share,"Monthly cash activity of $4,040.35 accounted for 49% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000151,2026-10-01,C01618,A02033,High Cash Amount and Cash Share,"Monthly cash activity of $3,579.15 accounted for 46% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000152,2026-10-01,C01673,A02101,High Cash Amount and Cash Share,"Monthly cash activity of $9,960.30 accounted for 43% of total turnover. Both cash activity thresholds were exceeded.",ACCOUNT,
+ALT000153,2026-10-01,C00027,A00030,High Counterparty Concentration,Top counterparty accounted for 85.9% of measured monthly activity across 5 transactions involving 2 unique counterparties.,ACCOUNT,Initial review
+ALT000154,2026-10-01,C00320,A00398,High Counterparty Concentration,Top counterparty accounted for 84.0% of measured monthly activity across 6 transactions involving 3 unique counterparties.,ACCOUNT,Initial review
+ALT000155,2026-10-01,C00332,A00411,High Counterparty Concentration,Top counterparty accounted for 86.4% of measured monthly activity across 5 transactions involving 2 unique counterparties.,ACCOUNT,Initial review
+ALT000156,2026-10-01,C00340,A00420,High Counterparty Concentration,Top counterparty accounted for 100.0% of measured monthly activity across 5 transactions involving 1 unique counterparties.,ACCOUNT,Initial review
+ALT000157,2026-10-01,C00425,A00525,High Counterparty Concentration,Top counterparty accounted for 85.6% of measured monthly activity across 5 transactions involving 2 unique counterparties.,ACCOUNT,Initial review
+ALT000158,2026-10-01,C00456,A00562,High Counterparty Concentration,Top counterparty accounted for 88.3% of measured monthly activity across 7 transactions involving 2 unique counterparties.,ACCOUNT,Initial review
+ALT000159,2026-10-01,C00659,A00810,High Counterparty Concentration,Top counterparty accounted for 83.0% of measured monthly activity across 6 transactions involving 2 unique counterparties.,ACCOUNT,Initial review
+ALT000160,2026-10-01,C00691,A00851,High Counterparty Concentration,Top counterparty accounted for 81.7% of measured monthly activity across 9 transactions involving 5 unique counterparties.,ACCOUNT,Initial review
+ALT000161,2026-10-01,C00770,A00949,High Counterparty Concentration,Top counterparty accounted for 82.1% of measured monthly activity across 6 transactions involving 5 unique counterparties.,ACCOUNT,Enhanced review
+ALT000162,2026-10-01,C00927,A01148,High Counterparty Concentration,Top counterparty accounted for 81.8% of measured monthly activity across 5 transactions involving 3 unique counterparties.,ACCOUNT,Initial review
+ALT000163,2026-10-01,C00971,A01201,High Counterparty Concentration,Top counterparty accounted for 83.6% of measured monthly activity across 7 transactions involving 4 unique counterparties.,ACCOUNT,Initial review
+ALT000164,2026-10-01,C01179,A01468,High Counterparty Concentration,Top counterparty accounted for 91.4% of measured monthly activity across 7 transactions involving 2 unique counterparties.,ACCOUNT,Initial review
+ALT000165,2026-10-01,C01301,A01623,High Counterparty Concentration,Top counterparty accounted for 82.0% of measured monthly activity across 8 transactions involving 2 unique counterparties.,ACCOUNT,Initial review
+ALT000166,2026-10-01,C01415,A01766,High Counterparty Concentration,Top counterparty accounted for 86.8% of measured monthly activity across 5 transactions involving 2 unique counterparties.,ACCOUNT,Initial review
+ALT000167,2026-10-01,C01554,A01948,High Counterparty Concentration,Top counterparty accounted for 87.8% of measured monthly activity across 6 transactions involving 2 unique counterparties.,ACCOUNT,Enhanced review
+ALT000168,2026-10-01,C01621,A02037,High Counterparty Concentration,Top counterparty accounted for 100.0% of measured monthly activity across 5 transactions involving 1 unique counterparties.,ACCOUNT,Initial review

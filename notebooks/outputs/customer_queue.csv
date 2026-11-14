@@ -1,0 +1,158 @@
+customer_id,rule_count,triggered_accounts,review_queue,triggered_rules,snapshot_date
+C00008,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00027,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00028,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00030,2,1,Multi-rule review,High Turnover and Expected Activity Deviation | Sudden Transaction Velocity Spike,2026-10-01
+C00037,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00051,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00061,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00062,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00069,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00075,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00083,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00097,2,1,Multi-rule review,High Cash Amount and Cash Share | Unusual New Counterparty Activity,2026-10-01
+C00098,2,1,Multi-rule review,High Cash Amount and Cash Share | High Turnover and Expected Activity Deviation,2026-10-01
+C00109,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00173,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00181,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00191,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00194,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00198,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00211,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00215,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00216,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00235,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00245,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00274,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00311,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00320,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00322,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00326,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00327,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00332,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00340,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00341,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00343,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00361,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00366,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00375,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00389,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00399,2,1,Multi-rule review,High Cash Amount and Cash Share | High Turnover and Expected Activity Deviation,2026-10-01
+C00405,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00414,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00415,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00425,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00426,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00456,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00469,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00477,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00488,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00533,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00534,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00554,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00556,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00564,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00568,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00585,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00613,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00627,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00635,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00653,1,1,Single-rule review,Sudden Transaction Velocity Spike,2026-10-01
+C00659,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00667,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00685,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00691,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00695,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C00702,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00705,2,1,Multi-rule review,High Cash Amount and Cash Share | High Turnover and Expected Activity Deviation,2026-10-01
+C00714,2,1,Multi-rule review,High Cash Amount and Cash Share | High Turnover and Expected Activity Deviation,2026-10-01
+C00723,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00726,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00747,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00764,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00770,2,1,Multi-rule review,High Counterparty Concentration | High Turnover and Expected Activity Deviation,2026-10-01
+C00784,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00812,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00819,3,2,Multi-rule review,High Cash Amount and Cash Share | High Turnover and Expected Activity Deviation | Sudden Transaction Velocity Spike,2026-10-01
+C00823,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00826,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00829,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00831,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00852,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00866,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00888,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00913,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C00916,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00925,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00927,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00947,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C00971,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C00982,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01002,2,1,Multi-rule review,High Turnover and Expected Activity Deviation | Sudden Transaction Velocity Spike,2026-10-01
+C01003,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01013,1,1,Single-rule review,Sudden Transaction Velocity Spike,2026-10-01
+C01020,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01024,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01027,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01062,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01085,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01086,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01096,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01118,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01119,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01120,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01148,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01154,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01175,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01179,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C01181,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01182,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01198,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01208,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01209,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01216,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01219,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01220,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01227,1,1,Single-rule review,Sudden Transaction Velocity Spike,2026-10-01
+C01248,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01267,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01269,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01301,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C01325,1,1,Single-rule review,Sudden Transaction Velocity Spike,2026-10-01
+C01335,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01340,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01348,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01358,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01373,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01376,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01415,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C01418,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01424,1,1,Single-rule review,Sudden Transaction Velocity Spike,2026-10-01
+C01443,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01452,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01458,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01482,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01489,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01498,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01544,1,1,Single-rule review,Sudden Transaction Velocity Spike,2026-10-01
+C01545,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01550,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01554,2,1,Multi-rule review,High Counterparty Concentration | High Turnover and Expected Activity Deviation,2026-10-01
+C01571,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01582,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01591,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01598,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01603,1,1,Single-rule review,Sudden Transaction Velocity Spike,2026-10-01
+C01606,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01610,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01618,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01621,1,1,Single-rule review,High Counterparty Concentration,2026-10-01
+C01624,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01630,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01633,1,1,Single-rule review,Sudden Transaction Velocity Spike,2026-10-01
+C01637,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01648,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01659,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01
+C01663,1,1,Single-rule review,Unusual New Counterparty Activity,2026-10-01
+C01673,1,1,Single-rule review,High Cash Amount and Cash Share,2026-10-01
+C01688,1,0,Single-rule review,High Turnover and Expected Activity Deviation,2026-10-01

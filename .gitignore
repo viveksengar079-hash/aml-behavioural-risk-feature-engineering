@@ -1,0 +1,18 @@
+# Local Python files
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local settings and temporary files
+.env
+.env.*
+!.env.example
+.vscode/
+*.twbr
+*.log
+.DS_Store
+
+# Keep local backup notebooks out of GitHub
+*_backup.ipynb
