@@ -57,6 +57,22 @@ Some customers triggered several rules. The final customer queue has **147 singl
 
 Open `tableau/aml_behavioural_risk.twbx` in Tableau. The workbook was checked locally. A Tableau Public link can be added after the final published-version test.
 
+
+## Tableau Dashboards
+
+### 1. Financial Crime Command Center
+
+![Financial Crime Command Center](images/command_center.png)
+
+### 2. Customer Behaviour Intelligence
+
+![Customer Behaviour Intelligence](images/customer_behaviour.png)
+
+### 3. Investigation Workbench
+
+![Investigation Workbench](images/investigation_workbench.png)
+
+
 ## Repository structure
 
 ```text
